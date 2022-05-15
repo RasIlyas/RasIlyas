@@ -1,0 +1,61 @@
+body {
+    font-family: Roboto:ital, wght @1,500 & display=swap" rel="stylesheet";
+    
+}
+.SAKURA {
+    height: 400px;
+    border-radius: 24px;
+    box-shadow: 4px 4px 14px rgba(0; 0; 0;025);
+}
+
+.spisok {
+    color: red;
+    border-radius: 18px;
+    padding:15px 43px ;
+    background: skyblue;
+    
+}
+.comments {
+    background: white;
+    padding: 5px 10px;
+    border: 3px solid black;
+    
+}
+.block {
+    padding: 15px 20px;
+    background="red"
+    margin-bottom: 15px;
+}
+.bg-lightgreen {
+    background: lightgreen;
+    padding-bottom: 0px;
+    border-radius: 15px;
+}
+.kartinka {
+    background: green;
+    padding: 50px;
+    border-radius: 15px;
+}
+.korobka{
+    background: pink;
+    border-radius: 18px;
+}
+.konets{
+    background: orange;
+    border-radius: 15px;
+    padding: 50px;
+    padding-bottom: 0px;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a: activ{
+    color: blue;
+}
+a: visited {
+    color: red;
+}
